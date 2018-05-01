@@ -1,0 +1,63 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: Environmental Research and Design Laboratory
+subtitle: ERDL projects
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: '/'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: ERDL team
+  url: http://localhost:4000
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/erdl_logo.png
+logoalt:
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text:
+  url: ./
+  internal: true
+- text: Thermal Comfort Surveys and Models
+  url: thermal_comfort_surveys_and_models
+  internal: true
+- text: Data Aquisition
+  url: data_aquisition
+  internal: true
+- text: Data Quality Monitor
+  url: data_quality_monitor
+  internal: true
+- text: Data Models
+  url: data_models
+  internal: true
+
+
+# Repo list (CURRENTLY USING THIS FOR OUR MAIN ORGANIZATION GH PAGE)
+# List repos that you would like to appear on the homepage here
+repos:
+- name: ERDL
+  description: collection of projects
+  url: https://github.com/erdl
+
+# Style Variables
+brand_color: "#afddb9"
+
+# Offline caching
+offline_cache: false
+cache_name: DOCter-v1.1

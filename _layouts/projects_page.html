@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h2>Project Repositories</h2>
+<ul class="repo-list group">
+  <li class="list-icon">
+    <img src="/assets/img/octocat.png" width="25px" alt="">
+  </li>
+  {% for project in page.projects %}
+    <li>
+      <a href="{{ project.repo_link }}">
+        <h4>{{ project.name }}</h4>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>About</h2>
+{{ content }}
