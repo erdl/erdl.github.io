@@ -22,7 +22,7 @@ baseurl: '/'
 # Author/Organization info to be displayed in the templates
 author:
   name: ERDL team
-  url: http://localhost:4000
+  url: https://github.com/orgs/erdl/people 
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/erdl_logo.png
