@@ -37,8 +37,8 @@ navigation:
 - text: Thermal Comfort Surveys and Models
   url: thermal_comfort_surveys_and_models
   internal: true
-- text: Data Aquisition
-  url: data_aquisition
+- text: Data Acquisition
+  url: data_acquisition
   internal: true
 - text: Data Quality Monitor
   url: data_quality_monitor
