@@ -10,7 +10,7 @@ collections:
 
 # Title
 name: Environmental Research and Design Laboratory
-subtitle: ERDL projects
+subtitle: Projects
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -22,7 +22,7 @@ baseurl: '/'
 # Author/Organization info to be displayed in the templates
 author:
   name: ERDL team
-  url: https://github.com/orgs/erdl/people 
+  url: https://github.com/orgs/erdl/people
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/erdl_logo.png
@@ -31,9 +31,6 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text:
-  url: ./
-  internal: true
 - text: Thermal Comfort Surveys and Models
   url: thermal_comfort_surveys_and_models
   internal: true
