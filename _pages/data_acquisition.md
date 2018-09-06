@@ -9,10 +9,6 @@ projects:
       repo_link: https://github.com/erdl/scrape_util_configs
 ---
 
-Chicken drumstick jerky pork boudin beef ribs. Chuck meatball cupim pork belly bacon salami. Picanha filet mignon hamburger ball tip porchetta spare ribs capicola tri-tip. Beef ribs short ribs hamburger pastrami. Flank corned beef meatloaf filet mignon pancetta cupim ham turkey hamburger drumstick tenderloin.
+ERDL data comes from a myriad of sensors, vendors, and locations, ranging from prototyped stations to APIs and remote server databases. Through code Notebooks and scripting we help abstract, narrate, document and prepare data for building architect researchers to test a different hypothesis. 
 
 <img src="/assets/img/sensor.JPG" height="60%" width="60%">
-
-Tri-tip corned beef beef meatball. Swine alcatra doner ground round jowl. Meatball ham tail, boudin turkey brisket cow burgdoggen kevin alcatra. T-bone bresaola ground round sausage. Hamburger fatback kevin rump burgdoggen doner bacon. Shankle meatball beef ribs, prosciutto turkey pastrami short ribs venison strip steak swine.
-
-Venison short ribs shankle pork, flank biltong burgdoggen buffalo kielbasa. Turkey pancetta burgdoggen cupim pig, pork chop ball tip short ribs. Picanha spare ribs tenderloin meatloaf jowl buffalo brisket boudin porchetta. Bacon swine boudin, bresaola filet mignon strip steak corned beef rump porchetta. Corned beef pig burgdoggen beef ribs turkey cupim short ribs fatback kevin ground round short loin shank meatloaf jerky spare ribs.
